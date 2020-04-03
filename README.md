@@ -20,3 +20,7 @@ This is my recomendation setup for a developer home office enviroment
 - Noise cancelling
 - Linux
 - Oracle Virtual Box (to run MS Windows with MS Office as needed)
+
+Reference:
+
+- https://jornal.usp.br/universidade/ensino-a-distancia-e-nova-realidade-para-professores-de-graduacao-da-usp%e2%80%8b
