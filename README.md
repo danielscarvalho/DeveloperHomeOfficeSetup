@@ -20,6 +20,21 @@ This is my recomendation setup for a developer home office enviroment
 - Noise cancelling
 - Linux
 - Oracle Virtual Box (to run MS Windows with MS Office as needed)
+- Spotify
+- Eclipse
+- MS Visual Studio Code
+- Adobe Brackets
+- Atom
+- Git
+- Mathematica (Wolfram Language)
+- MySQL
+- MongoDB
+- CouchDB
+- Skype
+- Zoom
+- MS Teams
+- Thunberbird
+- Kazam
 
 Reference:
 
