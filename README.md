@@ -17,7 +17,7 @@ This is my recomendation setup for a developer home office enviroment
 - Timer (pomodoro)
 - Coffe machine
 - Notebook (the old paper one style)
-- Postit
+- Postit - Kambam frame (it can be digital)
 - Printer/Scanner
 
 ### Software:
