@@ -14,6 +14,11 @@ This is my recomendation setup for a developer home office enviroment
 - Youtuber lighting for meetings and classes
 - External HD (for backup)
 - Digital Drawing Tablet
+- Timer (pomodoro)
+- Coffe machine
+- Notebook (the old paper one style)
+- Postit
+- Printer/Scanner
 
 ### Software:
 
@@ -36,7 +41,6 @@ This is my recomendation setup for a developer home office enviroment
 - Thunberbird
 - Kazam
 - High fidelity stereo speakers
-- Coffe machine
 
 Reference:
 
