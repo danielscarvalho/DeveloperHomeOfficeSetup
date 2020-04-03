@@ -35,6 +35,8 @@ This is my recomendation setup for a developer home office enviroment
 - MS Teams
 - Thunberbird
 - Kazam
+- High fidelity stereo speakers
+- Coffe machine
 
 Reference:
 
